@@ -1,0 +1,70 @@
+html{
+     background-color: bisque;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header{
+    position: sticky;
+    top: 0px;
+    text-align: right;
+    background-color: #298;
+    width: 100%;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 3px;
+}
+
+h1{
+    font-size: 40px;
+    color: red;
+    font-weight: bold;    
+}
+
+.section-margin{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.bio-text{
+    font-size: 25px;
+    color: blue;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a{
+    color:white;
+    font-weight: bold;
+    padding: 5px;
+}
+h3{
+    width:50%;
+    margin-right: auto;
+    margin-left: auto;
+    color: black;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+footer{
+    color: azure;
+    background-color:grey;
+    padding: 20px;
+    font-size: smaller;
+    text-align: center;
+    font-weight: bold;
+    position: sticky;
+    bottom: 0px;
+}
+
+.contact-form{
+    border: 3px dotted black;
+    border-radius: 25px;
+    width:50%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 10px;
+}
+
